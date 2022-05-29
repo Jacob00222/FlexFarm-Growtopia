@@ -19,6 +19,8 @@
 - **Auto Fishing**
 - **Lua Executor (Not Finished)**
 
+dont ask me how to compile 
+
 **current version: V1.3**
 Made By SrMotion
 
