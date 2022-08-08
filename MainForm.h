@@ -248,7 +248,7 @@ __published:	// IDE-managed Components
 	void __fastcall Button37Click(TObject *Sender);
 
 
-
+// i masturb to hentai too much men
 private:	// User declarations
 public:		// User declarations
 	__fastcall TForm1(TComponent* Owner);
