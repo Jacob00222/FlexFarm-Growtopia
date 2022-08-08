@@ -21,7 +21,7 @@
 
 dont ask me how to compile 
 
-**current version: V1.3**
-Made By SrMotion
+**current version: V1.8**
+Made By SrMotion and me
 
-LAST UPDATE: 2022 07 27
+LAST UPDATE: 2022 08 08
