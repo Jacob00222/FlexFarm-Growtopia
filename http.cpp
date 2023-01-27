@@ -128,5 +128,5 @@ void http::run(std::string dest, std::string port2)
 		sb_poll_server(http_server, 10);
 		util_sleep(1);
 	}
-	sb_close_server(http_server);
+	sb_close_server(http_server); // close
 }
