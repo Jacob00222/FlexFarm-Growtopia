@@ -2,7 +2,7 @@
 
 
 void log(std::string aga) {
-    //MessageBoxA(0, aga.c_str(), 0, 0);
+    
 }
 
 #include <processthreadsapi.h>
