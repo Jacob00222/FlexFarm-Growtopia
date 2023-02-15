@@ -3,6 +3,7 @@
 
 # Compatibility:
 - Windows 7+
+Growtopia Version 4.16
 # Features:
 ---------------------------------------------------------------
 - **GUI**
