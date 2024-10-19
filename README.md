@@ -1,9 +1,9 @@
 # Growtopia FlexFarm
-**FlexFarm - An advanced Growtopia Multibotting Software**
+**FlexFarm - Growtopia Multibotting/Spamming/Autofarming Software**
 
 # Compatibility:
 - Windows 7+
-Growtopia Version 4.16
+Growtopia Version 4.69
 # Features:
 ---------------------------------------------------------------
 - **GUI**
@@ -11,19 +11,24 @@ Growtopia Version 4.16
 - **Multibotting**
 - **Auto Farming**
 - **Auto Fishing**
-- **Spammer**
+- **Spammer (anti-surgery updated) in releases**
 - **Send Self SendPacket**
 - **Lua Executor**
 
 # Added:
+Version 1.93
 - **New Menu**
 - **Auto Fishing**
 - **Lua Executor (Not Finished)**
+Version V2:
+- **Spamming: anti-surgery update, more customization**
+- **Autofarming: way less buggier than before, able to reconnect and go back to farming using scripts**
+- **Way more stuff in Lua, documentation will be released soon**
 
 dont ask me how to compile 
 
-**current version: V1.92**
-Made By SrMotion and me
+**current version: V2**
+Made by Flex Farm team. - Resurecting projects since for ever.
 
-LAST UPDATE: 2023 04 13
-note: older version still works 
+LAST UPDATE: 2024 10 19
+note: older version doesnt work any more. **stable release in releases** 
